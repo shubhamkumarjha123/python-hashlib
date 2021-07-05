@@ -1,2 +1,2 @@
 # python-hashlib
-#using hashlib — Secure hashes and message digests
+using hashlib — Secure hashes and message digests
